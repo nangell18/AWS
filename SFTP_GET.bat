@@ -1,0 +1,1 @@
+echo get /home/vm_admin/* | sftp vm_admin@192.168.1.173
