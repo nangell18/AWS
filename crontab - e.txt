@@ -1,0 +1,3 @@
+crontab -e
+save the following:
+@reboot sh /home/vm_admin/start.sh
